@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+}
+
+.ctf:hover {
+    box-shadow: 0 0 8px #fff;
+    border: solid 1px #fff;
+}
+
+.ctf:hover img {
+    scale: 1.5s;
+}
+
+.ctf img {
+    display: block;
+     transition: all 0.3s linear;
+}
